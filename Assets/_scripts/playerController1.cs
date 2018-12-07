@@ -6,7 +6,6 @@ public class playerController1 : MonoBehaviour {
 
 	public float moveSpeed;
 	private Rigidbody rigidbody;
-
 	private Animator animator;
 	public Transform player2;
 
